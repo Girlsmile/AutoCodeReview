@@ -1,0 +1,18 @@
+{
+    "project_path": "youpath",
+    "file_extensions": [
+        ".swift",
+        ".m",
+        ".h"
+    ],
+    "exclude_patterns": [
+        "**/Pods/**",
+        "**/Carthage/**",
+        "**/build/**",
+        "**/.build/**",
+        "**/DerivedData/**",
+        "**/*.generated.swift"
+    ],
+    "max_file_size_kb": 100,
+    "review_level": "relaxed"
+}
